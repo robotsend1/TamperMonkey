@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/robotsend1/TamperMonkey/main/Bentauto.js
 // @downloadURL  https://raw.githubusercontent.com/robotsend1/TamperMonkey/main/Bentauto.js
