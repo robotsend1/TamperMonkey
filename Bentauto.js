@@ -3,7 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the world!
-// @author       You
+// @updateURL    https://raw.githubusercontent.com/robotsend1/TamperMonkey/main/Bentauto.js
+// @downloadURL  https://raw.githubusercontent.com/robotsend1/TamperMonkey/main/Bentauto.js
+// @author       Bent
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
